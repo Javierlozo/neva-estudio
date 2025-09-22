@@ -1,7 +1,7 @@
 'use client';
 
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, ArrowLeft, ArrowRight } from 'lucide-react';
+import { X, ArrowRight } from 'lucide-react';
 import { useTranslations } from '@/hooks/useTranslations';
 import { useEffect } from 'react';
 
@@ -13,7 +13,6 @@ interface ServiceModalProps {
 }
 
 export default function ServiceModal({ isOpen, onClose, serviceKey, onServiceSelect }: ServiceModalProps) {
-  const t = useTranslations('services');
 
   // Prevent body scroll when modal is open
   useEffect(() => {

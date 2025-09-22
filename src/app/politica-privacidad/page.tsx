@@ -43,7 +43,7 @@ export default function PoliticaPrivacidad() {
 
             <h2 className="text-xl font-light text-gray-900 mb-6">Finalidades de los tratamientos</h2>
             <p className="mb-6">
-              Los datos personales que nos facilite en el formulario "Contáctanos", disponible en este sitio web, 
+              Los datos personales que nos facilite en el formulario &quot;Contáctanos&quot;, disponible en este sitio web, 
               serán tratados con la finalidad de dar respuesta a la solicitud de contacto realizada por el usuario.
             </p>
 

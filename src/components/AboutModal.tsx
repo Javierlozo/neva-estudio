@@ -41,24 +41,6 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
     }
   };
 
-  const servicesItems = [
-    {
-      title: "Servicios de arquitectura en Asturias",
-      subtitle: "Nuestro estudio de arquitectura trabaja en todo Asturias",
-      content: "Nuestro estudio de arquitectura trabaja en todo Asturias. Para cada proyecto, proporcionamos soluciones de calidad que hagan realidad la visión del cliente.",
-      detailedContent: "Proyectos residenciales y comerciales\nYa sea para tu vivienda, local u oficina, diseñaremos un espacio diferencial. Llevamos a cabo cada proyecto de forma personalizada, adecuándonos a las características de la propiedad y las expectativas del cliente.\n\nReformas y rehabilitaciones\nTransformamos tus espacios por completo, con un enfoque sostenible y eficiente.\n\nDiseño de interiores\nEstilo, personalidad y confort. En nuestro estudio de arquitectura diseñamos ambientes donde cada elemento cumple un propósito y se integra en el conjunto.\n\nConsultoría en arquitectura\nSi necesitas ayuda para definir la propuesta de tu vivienda, también ofrecemos consultoría en arquitectura. Te ayudaremos a analizar cada aspecto de la propiedad para asesorarte correctamente.",
-      advantages: [],
-      phases: []
-    },
-    {
-      title: "Un estudio de arquitectura en Gijón con visión humanista",
-      subtitle: "Arquitectura pensada para el usuario",
-      content: "Nuestro estudio de arquitectura en Gijón apuesta por un enfoque humanista y cercano. En otras palabras, trabajamos para que el proyecto se adapte a su entorno y a las personas que viven en él.",
-      detailedContent: "El cliente forma parte del proceso de diseño desde el primer minuto. Ofrecemos un servicio transparente y colaborativo desde el encaje inicial hasta la elaboración del proyecto y la ejecución final.\n\nEn NEVA estudio priorizamos una arquitectura pensada para el usuario, enfocada en la sencillez, el confort y la armonía.\n\nProyectamos ambientes que inspiran y mejoran la experiencia de quienes los habitan.",
-      advantages: [],
-      phases: []
-    }
-  ];
 
   return (
     <AnimatePresence>
@@ -211,7 +193,7 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
                         
                         <div className="bg-gray-50 p-8 border-l-4 border-gray-300">
                           <p className="text-gray-700 font-medium italic text-center">
-                            "Arquitectura enfocada en la sencillez, el confort y la armonía"
+                            &quot;Arquitectura enfocada en la sencillez, el confort y la armonía&quot;
                           </p>
                         </div>
                         
@@ -287,7 +269,7 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
                     <div className="bg-gray-50 p-12 border-l-4 border-gray-300">
                       <blockquote className="text-center">
                         <p className="text-gray-700 font-medium italic text-xl mb-4">
-                          "Arquitectura pensada para el usuario, enfocada en la sencillez, el confort y la armonía"
+                          &quot;Arquitectura pensada para el usuario, enfocada en la sencillez, el confort y la armonía&quot;
                         </p>
                         <footer className="text-gray-500 text-sm font-light">
                           — NEVA Estudio
@@ -353,7 +335,7 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
                     {/* Name Origin */}
                     <div className="border-t border-gray-200 pt-12">
                       <div className="text-center mb-8">
-                        <h3 className="text-xl font-thin text-gray-900 mb-4">Por qué 'NEVA'</h3>
+                        <h3 className="text-xl font-thin text-gray-900 mb-4">Por qué &apos;NEVA&apos;</h3>
                         <div className="w-12 h-px bg-gray-400 mx-auto"></div>
                       </div>
                       

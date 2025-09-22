@@ -1,15 +1,13 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import Link from 'next/link';
 import { ArrowRight, ChevronDown } from 'lucide-react';
-import { useTranslations, useLocale } from '@/hooks/useTranslations';
+import { useTranslations } from '@/hooks/useTranslations';
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 
 export default function HeroSection() {
   const t = useTranslations('hero');
-  const locale = useLocale();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const heroImages = [

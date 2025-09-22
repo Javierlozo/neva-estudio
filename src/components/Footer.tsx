@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Instagram, Linkedin, Mail, Phone, MapPin } from 'lucide-react';
+import { Instagram, Linkedin, Mail, MapPin } from 'lucide-react';
 import { useTranslations, useLocale } from '@/hooks/useTranslations';
 
 export default function Footer() {

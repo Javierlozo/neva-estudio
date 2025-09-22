@@ -1,14 +1,13 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ArrowRight, Home, Building, MapPin, Zap, FileText, Wrench, Key } from 'lucide-react';
+import { Home, Building, MapPin, Zap, FileText, Wrench, Key } from 'lucide-react';
 import { useTranslations, useLocale } from '@/hooks/useTranslations';
 import { useState } from 'react';
 import ServiceModal from './ServiceModal';
 
 export default function ServicesSection() {
   const t = useTranslations('services');
-  const locale = useLocale();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedServiceKey, setSelectedServiceKey] = useState<string>('');
   const [showAllServices, setShowAllServices] = useState(false);
