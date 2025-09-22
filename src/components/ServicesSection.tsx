@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Home, Building, MapPin, Zap, FileText, Wrench, Key } from 'lucide-react';
-import { useTranslations, useLocale } from '@/hooks/useTranslations';
+import { useTranslations } from '@/hooks/useTranslations';
 import { useState } from 'react';
 import ServiceModal from './ServiceModal';
 
@@ -97,21 +97,21 @@ export default function ServicesSection() {
   };
 
   return (
-    <section id="services" className="py-32 bg-white">
+    <section id="services" className="py-16 sm:py-24 lg:py-32 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-center mb-16"
+          className="text-center mb-12 sm:mb-16"
         >
-          <h2 className="text-3xl md:text-4xl font-thin text-gray-900 mb-10 tracking-tight">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-thin text-gray-900 mb-6 sm:mb-8 lg:mb-10 tracking-tight">
             {t('title')}
           </h2>
-          <div className="w-20 h-px bg-gray-400 mb-12 mx-auto"></div>
+          <div className="w-20 h-px bg-gray-400 mb-8 sm:mb-10 lg:mb-12 mx-auto"></div>
           
-          <div className="max-w-5xl mx-auto space-y-8">
+          <div className="max-w-5xl mx-auto space-y-4 sm:space-y-6 lg:space-y-8">
             <p className="text-lg text-gray-600 leading-relaxed font-light">
               {t('description')}
             </p>
@@ -133,7 +133,7 @@ export default function ServicesSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
           viewport={{ once: true }}
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8"
         >
           {(showAllServices ? services : services.slice(0, 3)).map((service, index) => {
             const IconComponent = service.icon;

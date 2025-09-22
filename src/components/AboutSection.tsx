@@ -11,9 +11,9 @@ export default function AboutSection() {
   
   return (
     <>
-        <section id="about" className="py-32 bg-white">
+        <section id="about" className="py-16 sm:py-24 lg:py-32 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 items-start">
           {/* Content */}
               <motion.div
                 initial={{ opacity: 0, x: -50 }}
@@ -21,7 +21,7 @@ export default function AboutSection() {
                 transition={{ duration: 0.8 }}
                 viewport={{ once: true }}
               >
-                <div className="mb-16">
+                <div className="mb-8 sm:mb-12 lg:mb-16">
                   <img 
                     src="/neva-logo-apaisado.svg" 
                     alt="NEVA Estudio" 
@@ -29,12 +29,12 @@ export default function AboutSection() {
                   />
                   <div className="w-20 h-px bg-gray-400"></div>
                 </div>
-                <h2 className="text-3xl md:text-4xl font-thin text-gray-900 mb-10 tracking-tight leading-tight">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-thin text-gray-900 mb-8 sm:mb-10 tracking-tight leading-tight">
                   Arquitectos en Gijón
                 </h2>
-                <div className="w-20 h-px bg-gray-400 mb-16"></div>
+                <div className="w-20 h-px bg-gray-400 mb-8 sm:mb-12 lg:mb-16"></div>
                 
-                <div className="space-y-8 mb-20">
+                <div className="space-y-6 sm:space-y-8 mb-12 sm:mb-16 lg:mb-20">
                   <p className="text-lg text-gray-600 leading-relaxed font-light">
                     NEVA es un estudio de arquitectura, con sede en Gijón, que cuenta con más de 10 años de experiencia en el sector. Esto nos ha permitido desarrollar una forma de trabajar que va más allá de la arquitectura, acompañando al cliente y valorando su opinión en todo momento.
                   </p>
@@ -86,7 +86,7 @@ export default function AboutSection() {
     </section>
 
     {/* Why Choose Us Section - Horizontal with Yellow Dot Pattern */}
-    <section className="py-32 bg-gray-50 relative overflow-hidden">
+            <section className="py-16 sm:py-24 lg:py-32 bg-gray-50 relative overflow-hidden">
       {/* Yellow Dot Pattern Background */}
       <div className="absolute inset-0 opacity-5">
         <div className="absolute inset-0" style={{
@@ -102,7 +102,7 @@ export default function AboutSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-center mb-20"
+                  className="text-center mb-12 sm:mb-16 lg:mb-20"
         >
           <h2 className="text-3xl md:text-4xl font-thin text-gray-900 mb-6 tracking-tight">
             ¿Por qué elegir a Neva Estudio?

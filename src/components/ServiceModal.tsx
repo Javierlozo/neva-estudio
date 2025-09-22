@@ -2,7 +2,6 @@
 
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, ArrowRight } from 'lucide-react';
-import { useTranslations } from '@/hooks/useTranslations';
 import { useEffect } from 'react';
 
 interface ServiceModalProps {
@@ -630,10 +629,10 @@ Te ofrecemos un servicio técnico fiable, adaptado a la normativa y con todas la
             initial={{ opacity: 0, scale: 0.95, y: 20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: 20 }}
-            className="relative bg-white rounded-none shadow-2xl max-w-4xl w-full mx-4 max-h-[90vh] overflow-hidden"
+            className="relative bg-white rounded-none shadow-2xl max-w-4xl w-full mx-2 sm:mx-4 max-h-[95vh] sm:max-h-[90vh] overflow-hidden"
           >
             {/* Header */}
-            <div className="sticky top-0 bg-white border-b border-gray-200 px-8 py-8">
+            <div className="sticky top-0 bg-white border-b border-gray-200 px-4 sm:px-8 py-6 sm:py-8">
               <div className="flex items-center justify-between mb-8">
                 <div>
                   <h2 className="text-2xl font-light text-gray-900 mb-2">{serviceContent.title}</h2>
@@ -650,7 +649,7 @@ Te ofrecemos un servicio técnico fiable, adaptado a la normativa y con todas la
             </div>
 
             {/* Content */}
-            <div className="px-8 py-8 max-h-[calc(90vh-180px)] overflow-y-auto">
+            <div className="px-4 sm:px-8 py-6 sm:py-8 max-h-[calc(95vh-160px)] sm:max-h-[calc(90vh-180px)] overflow-y-auto">
               {serviceContent.sections.map((section, index) => (
                 <motion.div
                   key={index}

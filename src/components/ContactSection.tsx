@@ -70,9 +70,9 @@ export default function ContactSection() {
   }
 
   return (
-        <section id="contact" className="py-32 bg-gray-900 text-white">
+        <section id="contact" className="py-16 sm:py-24 lg:py-32 bg-gray-900 text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
           {/* Contact Info */}
           <motion.div
             initial={{ opacity: 0, x: -50 }}
@@ -80,14 +80,14 @@ export default function ContactSection() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
-                <h2 className="text-3xl md:text-4xl font-thin mb-10 tracking-tight">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-thin mb-6 sm:mb-8 lg:mb-10 tracking-tight">
                   {t('title')}
                 </h2>
-                <div className="w-20 h-px bg-gray-400 mb-10"></div>
-                <p className="text-base text-gray-300 mb-8 leading-relaxed font-light">
+                <div className="w-20 h-px bg-gray-400 mb-6 sm:mb-8 lg:mb-10"></div>
+                <p className="text-base text-gray-300 mb-4 sm:mb-6 lg:mb-8 leading-relaxed font-light">
                   {t('description1')}
                 </p>
-                <p className="text-base text-gray-300 mb-8 leading-relaxed font-light">
+                <p className="text-base text-gray-300 mb-4 sm:mb-6 lg:mb-8 leading-relaxed font-light">
                   {t('description2')}
                 </p>
                 <p className="text-base text-gray-300 mb-10 leading-relaxed font-light">

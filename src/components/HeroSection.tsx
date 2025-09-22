@@ -41,7 +41,7 @@ export default function HeroSection() {
         <img 
           src="/neva-logo.svg" 
           alt="NEVA Estudio" 
-          className="h-32 w-auto brightness-0 invert"
+          className="h-20 sm:h-24 md:h-28 lg:h-32 w-auto brightness-0 invert"
         />
       </motion.div>
 
@@ -102,7 +102,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.7 }}
-            className="text-white text-5xl md:text-6xl lg:text-7xl font-thin tracking-widest"
+            className="text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-thin tracking-widest"
           >
             NEVA
           </motion.div>
@@ -110,7 +110,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.9 }}
-            className="text-white text-3xl md:text-4xl lg:text-5xl font-light tracking-[0.3em] mt-2"
+            className="text-white text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-light tracking-[0.3em] mt-2"
           >
             ESTUDIO
           </motion.div>
@@ -118,7 +118,7 @@ export default function HeroSection() {
       </div>
 
           {/* Text Content Below Images */}
-          <div className="relative bg-white py-32">
+          <div className="relative bg-white py-16 sm:py-24 lg:py-32">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -127,8 +127,8 @@ export default function HeroSection() {
             className="text-center"
           >
                 {/* Main Heading - Architectural Typography */}
-                <div className="mb-20">
-                  <h1 className="text-4xl md:text-6xl lg:text-7xl font-thin mb-12 tracking-tight leading-[0.9]">
+                <div className="mb-12 sm:mb-16 lg:mb-20">
+                  <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-thin mb-8 sm:mb-10 lg:mb-12 tracking-tight leading-[0.9]">
                     <span className="text-gray-900 font-light">{t('greeting')}</span>
                     <span className="font-thin text-gray-900 ml-4">{t('company')}</span>
                   </h1>
@@ -136,7 +136,7 @@ export default function HeroSection() {
                 </div>
         
             {/* Description Text - Architectural Minimalism */}
-            <div className="max-w-5xl mx-auto space-y-10 mb-20">
+            <div className="max-w-5xl mx-auto space-y-6 sm:space-y-8 lg:space-y-10 mb-12 sm:mb-16 lg:mb-20">
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}

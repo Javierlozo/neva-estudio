@@ -75,7 +75,7 @@ export default function Header() {
           <div className="md:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900"
+              className="text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 p-2 -m-2 touch-manipulation"
             >
               {isMenuOpen ? (
                 <X className="h-6 w-6" />
