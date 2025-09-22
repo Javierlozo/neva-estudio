@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "title": "NEVA Estudio - Arquitectos en Gijón | Asturias",
+    "description": "Estudio de arquitectura en Gijón con más de 10 años de experiencia. Proyectos residenciales, comerciales, reformas y diseño de interiores en Asturias.",
+    "keywords": "arquitectos gijón, arquitectura asturias, estudio arquitectura, proyectos residenciales, reformas, diseño interiores"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Estudio",
+    "projects": "Proyectos",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, somos",
+    "company": "NEVA",
+    "description": "Nuestro estudio de arquitectura está en Asturias, aunque hemos trabajado por toda España. En nuestros más de 10 años de experiencia, hemos desarrollado una arquitectura cercana y humanista.",
+    "description2": "Entendemos que cada proyecto es único y debe reflejar los deseos y necesidades de nuestros clientes, asegurando la funcionalidad, el confort y un diseño de líneas puras, claro y sencillo, que haga cada espacio único.",
+    "description3": "Nos apasiona buscar ese equilibrio perfecto entre forma y función, tanto en grandes proyectos residenciales o comerciales, como en cada vivienda, reforma o incluso diseño de interiores que realizamos. Esperamos que disfrutes visitando nuestra web y ¡te damos la bienvenida al mundo Neva!",
+    "viewProjects": "Ver Proyectos",
+    "contact": "Contáctanos"
+  },
+  "about": {
+    "title": "Arquitectos en Gijón",
+    "description1": "NEVA es un estudio de arquitectura, con sede en Gijón, que cuenta con más de 10 años de experiencia en el sector. Esto nos ha permitido desarrollar una forma de trabajar que va más allá de la arquitectura, acompañando al cliente y valorando su opinión en todo momento.",
+    "description2": "Damos forma a tu proyecto para que se adapta a tus gustos y necesidades.",
+    "subtitle": "Servicios de arquitectura en Asturias",
+    "description3": "Proyectos residenciales y comerciales",
+    "description4": "Reformas y rehabilitaciones",
+    "description5": "Transformamos tus espacios por completo, con un enfoque sostenible y eficiente.",
+    "description6": "Diseño de interiores",
+    "description7": "Consultoría en arquitectura",
+    "subtitle2": "Un estudio de arquitectura en Gijón con visión humanista",
+    "description8": "¿Por qué elegir a NEVA Estudio como tu estudio de arquitectura en Asturias?",
+    "seeMore": "Conoce nuestro estudio",
+    "detailed": {
+      "title": "Conoce más sobre nuestro enfoque",
+      "modal": {
+        "title": "NEVA Estudio - Arquitectura Humanista en Gijón",
+        "sections": {
+          "intro": {
+            "title": "Arquitectos en Gijón",
+            "content": "Neva es un estudio de arquitectura, con sede en Gijón, que cuenta con más de 10 años de experiencia en el sector. Esto nos ha permitido desarrollar una forma de trabajar que va más allá de la arquitectura, acompañando al cliente y valorando su opinión en todo momento.",
+            "subtitle": "Damos forma a tu proyecto para que se adapte a tus gustos y necesidades."
+          },
+          "services": {
+            "title": "Servicios de arquitectura en Asturias",
+            "description": "Nuestro estudio de arquitectura trabaja en todo Asturias. Para cada proyecto, proporcionamos soluciones de calidad que hagan realidad la visión del cliente.",
+            "items": [
+              {
+                "title": "Proyectos residenciales y comerciales",
+                "content": "Ya sea para tu vivienda, local u oficina, diseñaremos un espacio diferencial. Llevamos a cabo cada proyecto de forma personalizada, adecuándonos a las características de la propiedad y las expectativas del cliente."
+              },
+              {
+                "title": "Reformas y rehabilitaciones",
+                "content": "Transformamos tus espacios por completo, con un enfoque sostenible y eficiente."
+              },
+              {
+                "title": "Diseño de interiores",
+                "content": "Estilo, personalidad y confort. En nuestro estudio de arquitectura diseñamos ambientes donde cada elemento cumple un propósito y se integra en el conjunto."
+              },
+              {
+                "title": "Consultoría en arquitectura",
+                "content": "Si necesitas ayuda para definir la propuesta de tu vivienda, también ofrecemos consultoría en arquitectura. Te ayudaremos a analizar cada aspecto de la propiedad para asesorarte correctamente."
+              }
+            ]
+          },
+          "philosophy": {
+            "title": "Un estudio de arquitectura en Gijón con visión humanista",
+            "content": "Nuestro estudio de arquitectura en Gijón apuesta por un enfoque humanista y cercano. En otras palabras, trabajamos para que el proyecto se adapte a su entorno y a las personas que viven en él.",
+            "process": "El cliente forma parte del proceso de diseño desde el primer minuto. Ofrecemos un servicio transparente y colaborativo desde el encaje inicial hasta la elaboración del proyecto y la ejecución final.",
+            "vision": "En NEVA estudio priorizamos una arquitectura pensada para el usuario, enfocada en la sencillez, el confort y la armonía.",
+            "result": "Proyectamos ambientes que inspiran y mejoran la experiencia de quienes los habitan."
+          },
+          "advantages": {
+            "title": "¿Por qué elegir a Neva Estudio como tu estudio de arquitectura en Asturias?",
+            "items": [
+              {
+                "title": "Experiencia y profesionalidad",
+                "content": "Los arquitectos que formamos Neva contamos con amplia experiencia en proyectos de distinta escala por toda España. Sea cual sea tu necesidad no dudes en consultarnos."
+              },
+              {
+                "title": "Enfoque personalizado",
+                "content": "Nuestro primer paso siempre es conocer a nuestros clientes y entender lo que buscan. Este enfoque personalizado nos permite adaptar cada proyecto a tus necesidades específicas y que siempre lo sientas como tuyo."
+              },
+              {
+                "title": "Compromiso con el éxito",
+                "content": "Nuestro objetivo es superar las expectativas de nuestros clientes en cada proyecto. En Neva Estudio nos comprometemos con el éxito y trabajamos para ofrecer resultados de calidad."
+              },
+              {
+                "title": "Versatilidad y adaptabilidad",
+                "content": "Si algo define a nuestro equipo de arquitectos en Gijón es su versatilidad y adaptabilidad, que nos permiten dar respuesta a cualquier proyecto, sin importar su tamaño o complejidad."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "features": {
+      "personalized": {
+        "title": "Enfoque personalizado",
+        "description": "Cada proyecto se adapta a tus necesidades específicas"
+      },
+      "experience": {
+        "title": "Más de 10 años",
+        "description": "Experiencia en proyectos de distinta escala"
+      },
+      "humanist": {
+        "title": "Arquitectura humanista",
+        "description": "Enfoque cercano y pensado para el usuario"
+      },
+      "spain": {
+        "title": "Trabajo en toda España",
+        "description": "Proyectos residenciales y comerciales"
+      }
+    }
+  },
+  "estudio": {
+    "title": "Estudio de arquitectura",
+    "historia": {
+      "title": "HISTORIA",
+      "paragraph1": "Neva somos Andrés Suárez y Laín Fernández. Nos conocimos estudiando en la Escuela de Arquitectura de A Coruña. Desde el primer momento surgió la amistad y pronto vimos que compartíamos también unas ideas sobre nuestra profesión que encajaban.",
+      "paragraph2": "En 2016 nos concedieron una beca para el Vivero de Industrias Creativas de Matadero, en Madrid. Ahí comenzó una fructífera colaboración profesional que, al principio, alternamos con trabajos en otros estudios de arquitectura de Madrid y Asturias.",
+      "paragraph3": "En 2021, ya establecidos en Gijón, decidimos dar un paso más y crear nuestra propia marca y estudio. Así nació Neva."
+    },
+    "porque": {
+      "title": "Por qué 'Neva'",
+      "definition": "nevar: v. Cayer nieve [de les nubes]",
+      "explanation": "Cuando la nieve cubre el valle o la montaña, crea un lienzo en blanco sobre el que cualquier idea es posible, despertando la inspiración. Un lienzo, no obstante, cuya grandeza visual, calma y serenidad invitan al respeto: aquello que ahí creemos debe estar a la altura."
+    },
+    "equipo": {
+      "title": "EQUIPO PRINCIPAL",
+      "andres": {
+        "name": "Andrés Suárez",
+        "title": "ARQUITECTO",
+        "role": "Socio fundador"
+      },
+      "lain": {
+        "name": "Laín Fernández",
+        "title": "ARQUITECTO",
+        "role": "Socio fundador"
+      }
+    }
+  },
+  "projects": {
+    "title": "PROYECTOS",
+    "description": "Descubre algunos de nuestros proyectos más destacados. Cada uno representa nuestro compromiso con la excelencia arquitectónica y la satisfacción del cliente.",
+    "viewMore": "Ver más",
+    "items": {
+      "casa-rdv": {
+        "title": "Casa RDV",
+        "category": "Vivienda",
+        "description": "Vivienda unifamiliar moderna con diseño sostenible",
+        "detailedDescription": "Una pareja joven nos encargó una vivienda de uso habitual. Sería el hogar de su futura familia, así que necesitaban al menos tres dormitorios. Tenían la ilusión de incorporar, en el principal, vestidor y baño. Nos pidieron tener, anexas a la cocina, una despensa y un cuarto de lavado, dos espacios muy útiles para el día a día. También querían tener un gran porche exterior cubierto, que les permitiera pasar tiempo al aire libre. Dada la localización, necesitaban un garaje con capacidad para dos vehículos.\n\nPara dar cabida a todas estas peticiones, diseñamos un juego de volúmenes ortogonales en dos alturas, con un módulo adicional para el garaje. Esto nos permitió volar un volumen sobre otro, generando un acceso techado a la vivienda.\n\nEn la planta baja situamos las zonas de día y visita (cocina, salón, baño y una habitación/estudio). En la planta superior ubicamos las estancias privadas (habitación principal en suite, dos habitaciones dobles, un baño e incluso una cómoda sala polivalente).\n\nCombinamos acabados de piedra y mortero bicolor (negro y blanco) para lograr un aspecto visual contemporáneo y a la vez acogedor."
+      },
+      "casa-nvp": {
+        "title": "Casa NVP",
+        "category": "Vivienda",
+        "description": "Arquitectura contemporánea integrada en el paisaje",
+        "detailedDescription": "Esta vivienda unifamiliar representa un ejemplo perfecto de arquitectura contemporánea que se integra armoniosamente con el paisaje asturiano. El diseño respeta la topografía del terreno mientras maximiza las vistas y la luz natural. Los materiales utilizados reflejan la tradición local adaptada a técnicas constructivas modernas, creando un espacio que es a la vez funcional y estéticamente impactante."
+      },
+      "loft-rural": {
+        "title": "Loft Rural",
+        "category": "Rehabilitación",
+        "description": "Rehabilitación de espacio rural con diseño industrial",
+        "detailedDescription": "Transformación de un espacio rural tradicional en un loft moderno con estética industrial. El proyecto mantiene la estructura original mientras incorpora elementos contemporáneos y funcionales. El resultado es un espacio versátil que combina la calidez de los materiales originales con la funcionalidad del diseño moderno."
+      },
+      "ampliacion-br": {
+        "title": "Ampliación BR",
+        "category": "Rehabilitación",
+        "description": "Ampliación residencial con materiales naturales",
+        "detailedDescription": "Proyecto de ampliación que respeta la arquitectura original mientras añade espacios modernos y funcionales. Se utilizaron materiales naturales que armonizan con el entorno, creando una transición fluida entre lo existente y lo nuevo. La ampliación mejora significativamente la calidad de vida de los habitantes."
+      },
+      "ampliacion-vll": {
+        "title": "Ampliación VLL",
+        "category": "Rehabilitación",
+        "description": "Extensión moderna respetando la arquitectura original",
+        "detailedDescription": "Ampliación cuidadosamente diseñada que mantiene la esencia de la arquitectura original mientras incorpora soluciones modernas. El proyecto demuestra cómo es posible expandir una vivienda existente sin comprometer su carácter arquitectónico, creando espacios adicionales que se integran perfectamente con la estructura original."
+      },
+      "reforma-ol": {
+        "title": "Reforma OL",
+        "category": "Rehabilitación",
+        "description": "Reforma integral con diseño de interiores",
+        "detailedDescription": "Reforma completa que transforma completamente el espacio interior, optimizando la distribución y mejorando la funcionalidad. El proyecto incluye diseño de interiores personalizado que refleja el estilo de vida de los habitantes, creando un hogar moderno y acogedor."
+      },
+      "poniente-playa": {
+        "title": "Poniente Playa",
+        "category": "Vivienda",
+        "description": "Vivienda costera con vistas al mar",
+        "detailedDescription": "Vivienda diseñada para aprovechar al máximo las vistas al mar y la orientación poniente. El diseño maximiza la luz natural y las vistas panorámicas, creando una conexión constante entre el interior y el paisaje costero. Los materiales y acabados están seleccionados para resistir el ambiente marino."
+      },
+      "pie-playa": {
+        "title": "A Pie de Playa",
+        "category": "Vivienda",
+        "description": "Arquitectura costera sostenible",
+        "detailedDescription": "Proyecto de vivienda costera que combina diseño arquitectónico con principios de sostenibilidad ambiental. La casa está diseñada para minimizar su impacto en el entorno natural mientras proporciona espacios cómodos y funcionales. El diseño aprovecha las condiciones climáticas locales para optimizar el confort térmico."
+      }
+    },
+    "filters": {
+      "all": "Todo",
+      "vivienda": "Vivienda",
+      "rehabilitacion": "Rehabilitación",
+      "fachadas": "Fachadas",
+      "locales": "Locales"
+    }
+  },
+  "services": {
+    "title": "SERVICIOS",
+    "description": "Proyectamos espacios que mejoren tu día a día.",
+    "subtitle": "En los más de 10 años de experiencia hemos desarrollado una arquitectura humana y cercana, adaptando cada proyecto a las necesidades de las personas.",
+    "subtitle2": "Trabajamos en nuestro estudio en Asturias y diseñamos espacios confortables y prácticos, a la vez que inspiradores.",
+    "cta": "¡Descubre nuestros servicios de arquitectura!",
+    "seeMore": "Ver más servicios",
+    "items": {
+      "residential": {
+        "title": "Residencial",
+        "description": "Dentro de la arquitectura residencial, realizamos proyectos de obra nueva, rehabilitaciones, ampliaciones y reformas interiores.",
+        "features": ["Vivienda unifamiliar", "Vivienda colectiva", "Cambios de uso local a vivienda", "Reformas", "Mejoras en la accesibilidad de portales"]
+      },
+      "commercial": {
+        "title": "Comercial",
+        "description": "Trabajamos para potenciar los negocios, adaptándonos a las necesidades de cada marca o cliente.",
+        "features": ["Cambios de uso", "Adecuación de locales para comercio, hostelería, etc.", "Proyectos de actividad", "Licencias de apertura"]
+      },
+      "urbanism": {
+        "title": "Urbanismo",
+        "description": "Desarrollamos Planes urbanísticos y proyectos específicos de parcelación y urbanización, así como alegaciones y sugerencias a Planes Generales.",
+        "features": ["Proyectos de parcelación", "Proyectos de urbanización"]
+      },
+      "energy": {
+        "title": "Rehabilitación energética",
+        "description": "La eficiencia energética forma parte de nuestra apuesta. Mejoramos la envolvente térmica de edificios para aumentar el confort y reducir el consumo de energía.",
+        "features": ["Envolventes térmicas de edificios"]
+      },
+      "reports": {
+        "title": "Informes",
+        "description": "Proveemos la documentación técnica y certificaciones necesarias para cualquier trabajo de carácter técnico.",
+        "features": ["Expedientes de legalización", "Certificados de obra nueva antigua", "Informes técnicos", "Informes de Evaluación de Edificios", "Certificados de Eficiencia Energética"]
+      },
+      "other": {
+        "title": "Otros proyectos",
+        "description": "En Neva estudio ofrecemos soluciones en todos los ámbitos de la arquitectura.",
+        "features": ["Consultoría y asesoramiento", "Diseño de interiores", "Proyectos de demolición", "Modelado 3D e infografías"]
+      },
+      "turnkey": {
+        "title": "LLAVE EN MANO",
+        "description": "Gestionamos integralmente todas las fases de proyecto, desde el inicio hasta la entrega final de la obra. Nuestro objetivo es simplificarle al cliente el proceso, organizando y coordinando los distintos trámites y agentes.",
+        "features": []
+      }
+    },
+    "whyChooseUs": {
+      "title": "¿Por qué elegir a Neva Estudio como tu estudio de arquitectura en Asturias?",
+      "reasons": {
+        "experience": {
+          "title": "Experiencia y profesionalidad",
+          "description": "Los arquitectos que formamos Neva contamos con amplia experiencia en proyectos de distinta escala por toda España. Sea cual sea tu necesidad no dudes en consultarnos."
+        },
+        "personalized": {
+          "title": "Enfoque personalizado",
+          "description": "Nuestro primer paso siempre es conocer a nuestros clientes y entender lo que buscan. Este enfoque personalizado nos permite adaptar cada proyecto a tus necesidades específicas y que siempre lo sientas como tuyo."
+        },
+        "commitment": {
+          "title": "Compromiso con el éxito",
+          "description": "Nuestro objetivo es superar las expectativas de nuestros clientes en cada proyecto. En Neva Estudio nos comprometemos con el éxito y trabajamos para ofrecer resultados de calidad."
+        },
+        "versatility": {
+          "title": "Versatilidad y adaptabilidad",
+          "description": "Si algo define a nuestro equipo de arquitectos en Gijón es su versatilidad y adaptabilidad, que nos permiten dar respuesta a cualquier proyecto, sin importar su tamaño o complejidad."
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Neva Estudio, los arquitectos en Asturias que mejor se adaptan a ti",
+    "description1": "Nos implicamos completamente con cada cliente para ofrecerle el mejor proyecto posible y diseñar juntos ese espacio único que imagina.",
+    "description2": "Visita nuestra sección de proyectos para ver cómo lo hemos logrado con los clientes que ya confiaron en nosotros.",
+    "description3": "Si buscas una arquitectura cercana, actual y hecha a tu medida, no dudes en contactarnos.",
+    "form": {
+      "title": "Contáctanos",
+      "name": "Nombre",
+      "email": "Email",
+      "phone": "Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": {
+        "title": "¡Mensaje enviado!",
+        "description": "Gracias por contactarnos. Nos pondremos en contacto contigo pronto.",
+        "sendAnother": "Enviar otro mensaje"
+      },
+      "placeholders": {
+        "name": "Tu nombre completo",
+        "email": "tu@email.com",
+        "phone": "+34 XXX XXX XXX",
+        "subject": "¿En qué podemos ayudarte?",
+        "message": "Cuéntanos más detalles sobre tu proyecto..."
+      }
+    },
+    "info": {
+      "location": "Ubicación",
+      "locationValue": "Calle Decano Prendes Pando 20, 1°E, Gijón, Asturias",
+      "phone": "Teléfono",
+      "phoneValue": "+34 XXX XXX XXX",
+      "email": "Email",
+      "emailValue": "estudio@nevaestudio.com",
+      "team": {
+        "title": "Equipo",
+        "andres": {
+          "name": "Andrés Suárez",
+          "role": "ARQUITECTO",
+          "phone": "+34 636 761 306",
+          "email": "asuarez@nevaestudio.com"
+        },
+        "lain": {
+          "name": "Laín Fernández", 
+          "role": "ARQUITECTO",
+          "phone": "+34 627 796 806",
+          "email": "lainff@nevaestudio.com"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Estudio de arquitectura en Gijón con más de 10 años de experiencia. Arquitectura cercana y humanista que se adapta a tus necesidades.",
+    "links": "Enlaces",
+    "contact": "Contacto",
+    "copyright": "©2025 NEVA Estudio. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "legal": "Aviso legal",
+    "cookies": "Política de cookies"
+  },
+  "language": {
+    "switch": "Cambiar idioma",
+    "spanish": "Español",
+    "english": "English"
+  }
+}

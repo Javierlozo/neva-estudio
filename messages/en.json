@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "title": "NEVA Studio - Architects in Gijón | Asturias",
+    "description": "Architecture studio in Gijón with over 10 years of experience. Residential and commercial projects, renovations and interior design in Asturias.",
+    "keywords": "architects gijon, architecture asturias, architecture studio, residential projects, renovations, interior design"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "Studio",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, we are",
+    "company": "NEVA",
+    "description": "Our architecture studio is located in Asturias, although we have worked throughout Spain. In our more than 10 years of experience, we have developed a close and humanistic architecture.",
+    "description2": "We understand that each project is unique and must reflect the desires and needs of our clients, ensuring functionality, comfort and a design of pure, clear and simple lines that makes each space unique.",
+    "description3": "We are passionate about finding that perfect balance between form and function, both in large residential or commercial projects, as well as in each home, renovation or even interior design that we carry out.",
+    "viewProjects": "View Projects",
+    "contact": "Contact Us"
+  },
+  "about": {
+    "title": "Architects in Gijón",
+    "description1": "NEVA is an architecture studio, based in Gijón, with more than 10 years of experience in the sector. This has allowed us to develop a way of working that goes beyond architecture, accompanying the client and valuing their opinion at all times.",
+    "description2": "We shape your project so that it adapts to your tastes and needs.",
+    "subtitle": "Architecture services in Asturias",
+    "description3": "Residential and commercial projects",
+    "description4": "Renovations and rehabilitations",
+    "description5": "We transform your spaces completely, with a sustainable and efficient approach.",
+    "description6": "Interior design",
+    "description7": "Architecture consulting",
+    "subtitle2": "An architecture studio in Gijón with a humanistic vision",
+    "description8": "Why choose NEVA Studio as your architecture studio in Asturias?",
+    "seeMore": "Learn about our studio",
+    "features": {
+      "personalized": {
+        "title": "Personalized approach",
+        "description": "Each project adapts to your specific needs"
+      },
+      "experience": {
+        "title": "Over 10 years",
+        "description": "Experience in projects of different scales"
+      },
+      "humanist": {
+        "title": "Humanistic architecture",
+        "description": "Close approach focused on the user"
+      },
+      "spain": {
+        "title": "Work throughout Spain",
+        "description": "Residential and commercial projects"
+      }
+    }
+  },
+  "estudio": {
+    "title": "Architecture studio",
+    "historia": {
+      "title": "HISTORY",
+      "paragraph1": "Neva are Andrés Suárez and Laín Fernández. We met studying at the School of Architecture in A Coruña. From the first moment friendship arose and we soon saw that we also shared ideas about our profession that fit together.",
+      "paragraph2": "In 2016 we were granted a scholarship for the Creative Industries Incubator of Matadero, in Madrid. There began a fruitful professional collaboration that, at first, we alternated with work in other architecture studios in Madrid and Asturias.",
+      "paragraph3": "In 2021, already established in Gijón, we decided to take a step further and create our own brand and studio. Thus Neva was born."
+    },
+    "porque": {
+      "title": "Why 'Neva'",
+      "definition": "nevar: v. Snow fell [from the clouds]",
+      "explanation": "When snow covers the valley or the mountain, it creates a blank canvas on which any idea is possible, awakening inspiration. A canvas, however, whose visual grandeur, calm and serenity invite respect: what we create there must be up to the task."
+    },
+    "equipo": {
+      "title": "MAIN TEAM",
+      "andres": {
+        "name": "Andrés Suárez",
+        "title": "ARCHITECT",
+        "role": "Founding partner"
+      },
+      "lain": {
+        "name": "Laín Fernández",
+        "title": "ARCHITECT",
+        "role": "Founding partner"
+      }
+    }
+  },
+  "projects": {
+    "title": "PROJECTS",
+    "description": "Discover some of our most outstanding projects. Each one represents our commitment to architectural excellence and client satisfaction.",
+    "viewMore": "View more projects",
+    "items": {
+      "casa-rdv": {
+        "title": "Casa RDV",
+        "category": "Housing",
+        "description": "Modern single-family home with sustainable design"
+      },
+      "casa-nvp": {
+        "title": "Casa NVP",
+        "category": "Housing",
+        "description": "Contemporary architecture integrated into the landscape"
+      },
+      "loft-rural": {
+        "title": "Rural Loft",
+        "category": "Rehabilitation",
+        "description": "Rural space rehabilitation with industrial design"
+      },
+      "ampliacion-br": {
+        "title": "Extension BR",
+        "category": "Rehabilitation",
+        "description": "Residential extension with natural materials"
+      },
+      "ampliacion-vll": {
+        "title": "Extension VLL",
+        "category": "Rehabilitation",
+        "description": "Modern extension respecting original architecture"
+      },
+      "reforma-ol": {
+        "title": "Renovation OL",
+        "category": "Rehabilitation",
+        "description": "Complete renovation with interior design"
+      },
+      "poniente-playa": {
+        "title": "Poniente Beach",
+        "category": "Housing",
+        "description": "Coastal home with sea views"
+      },
+      "pie-playa": {
+        "title": "At the Beach",
+        "category": "Housing",
+        "description": "Sustainable coastal architecture"
+      }
+    },
+    "filters": {
+      "all": "All",
+      "vivienda": "Housing",
+      "rehabilitacion": "Rehabilitation",
+      "fachadas": "Facades",
+      "locales": "Commercial"
+    }
+  },
+  "services": {
+    "title": "Architecture services in Asturias",
+    "description": "Our architecture studio works throughout Asturias. For each project, we provide quality solutions that make the client's vision a reality.",
+    "items": {
+      "residential": {
+        "title": "Residential and commercial projects",
+        "description": "Whether for your home, business or office, we will design a differential space. We carry out each project in a personalized way, adapting to the characteristics of the property and the client's expectations.",
+        "features": ["Single-family homes", "Residential buildings", "Commercial premises", "Corporate offices"]
+      },
+      "renovations": {
+        "title": "Renovations and rehabilitations",
+        "description": "We completely transform your spaces, with a **sustainable and efficient approach.**",
+        "features": ["Complete renovations", "Building rehabilitation", "Space modernization", "Energy efficiency"]
+      },
+      "interior": {
+        "title": "Interior design",
+        "description": "Style, personality and comfort. In our **architecture studio** we **design** environments where each element serves a purpose and integrates into the whole.",
+        "features": ["Space design", "Material selection", "Lighting", "Custom furniture"]
+      },
+      "consulting": {
+        "title": "Architecture consulting",
+        "description": "If you need help defining your home proposal, we also offer **architecture consulting**. We will help you analyze every aspect of the property to advise you correctly.",
+        "features": ["Technical advice", "Feasibility analysis", "Preliminary studies", "License management"]
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why choose Neva Studio as your architecture studio in Asturias?",
+      "reasons": {
+        "experience": {
+          "title": "Experience and professionalism",
+          "description": "The architects that make up Neva have extensive experience in projects of different scales throughout Spain. Whatever your need, do not hesitate to consult us."
+        },
+        "personalized": {
+          "title": "Personalized approach",
+          "description": "Our first step is always to get to know our clients and understand what they are looking for. This personalized approach allows us to adapt each project to your specific needs and that you always feel it as yours."
+        },
+        "commitment": {
+          "title": "Commitment to success",
+          "description": "**Our goal is to exceed our clients' expectations** in each project. At _Neva Studio_ we are committed to success and work to offer quality results."
+        },
+        "versatility": {
+          "title": "Versatility and adaptability",
+          "description": "If something defines our team of **architects in Gijón** is their versatility and adaptability, which allow us to respond to any project, regardless of its size or complexity."
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Neva Studio, the architects in Asturias who best adapt to you",
+    "description1": "We get completely involved with each client to offer them the best possible project and design together that unique space they imagine.",
+    "description2": "Visit our projects section to see how we have achieved this with the clients who already trusted us.",
+    "description3": "If you are looking for close, current and made-to-measure architecture, do not hesitate to contact us.",
+    "form": {
+      "title": "Contact us",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": {
+        "title": "Message sent!",
+        "description": "Thank you for contacting us. We will get back to you soon.",
+        "sendAnother": "Send another message"
+      },
+      "placeholders": {
+        "name": "Your full name",
+        "email": "your@email.com",
+        "phone": "+34 XXX XXX XXX",
+        "subject": "How can we help you?",
+        "message": "Tell us more details about your project..."
+      }
+    },
+    "info": {
+      "location": "Location",
+      "locationValue": "Gijón, Asturias",
+      "phone": "Phone",
+      "phoneValue": "+34 XXX XXX XXX",
+      "email": "Email",
+      "emailValue": "info@nevaestudio.com"
+    }
+  },
+  "footer": {
+    "description": "Architecture studio in Gijón with over 10 years of experience. Close and humanistic architecture that adapts to your needs.",
+    "links": "Links",
+    "contact": "Contact",
+    "copyright": "©2025 NEVA Studio. All rights reserved.",
+    "privacy": "Privacy policy",
+    "legal": "Legal notice",
+    "cookies": "Cookie policy"
+  },
+  "language": {
+    "switch": "Change language",
+    "spanish": "Español",
+    "english": "English"
+  }
+}
